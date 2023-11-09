@@ -1,7 +1,3 @@
-Certainly, here is a concise README for the provided Java code:
-
----
-
 # Rectangle Collision Detection
 
 This Java program demonstrates collision detection between two moving rectangles within a graphical user interface (GUI).
